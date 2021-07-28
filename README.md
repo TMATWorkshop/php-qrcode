@@ -1,5 +1,7 @@
 # qrcode.php
 
+### Heroku Compatibility via Composer to add GD
+
 ### Generate QR Codes. MIT license.
 
 This is a stripped down version of https://github.com/kreativekorp/barcode
